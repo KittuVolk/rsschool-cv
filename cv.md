@@ -34,3 +34,13 @@ I am 33 years old. I have a good family, my husband and two daughters are in it.
   </video></p>
 </body>
 ```
+
+## **Education**
+---
+1. Art colledge in Kemerovo
+    1. Сeramics class
+1. University of Culture and Arts
+    1. Faculty of Graphic Design
+1. On-line university Geek Brain
+    1. Faculty of Prodgect-manager
+    
